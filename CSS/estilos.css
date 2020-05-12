@@ -1,13 +1,14 @@
 body{
   background-image:
-url('https://wallpaper-house.com/data/out/12/wallpaper2you_557041.jpg');
-  background-size: auto 100vh; 
+url("https://wallpaper-house.com/data/out/12/wallpaper2you_557041.jpg");
+  background-size: auto 100vh;
+  backdrop-filter: blur(2px);
   font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
   height: 100vh;
 }
 
 .menu{
-  background-color:white;
+  background-color: white;
 }
 
 .menu ul{
